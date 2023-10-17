@@ -1,0 +1,99 @@
+------------- Iteration P 1 -------------
+step 1 :
+s layer 1 :
+[0.4502 0.475 ]
+
+a layer 2 :
+[0.0525]
+
+error layer 1 :
+[4.9475]
+
+s layer 2 :
+[-9.895]
+
+Identity matrix :
+[[0.24751996 0.        ]
+ [0.         0.249375  ]]
+
+s layer 1 :
+[ 0.4898 -0.7403]
+
+new weight layer 2 :
+[4.2547 5.0001]
+
+new bias layer 2 :
+[9.895]
+
+new weight layer 1 :
+[-0.1  0.2]
+
+new bias layer 1 :
+[-0.7898  0.8403]
+
+------------- Iteration P 2 -------------
+step 1 :
+s layer 1 :
+[0.3122 0.6985]
+
+a layer 2 :
+[14.7159]
+
+error layer 1 :
+[-13.7159]
+
+s layer 2 :
+[27.4318]
+
+Identity matrix :
+[[0.21473116 0.        ]
+ [0.         0.21059775]]
+
+s layer 1 :
+[25.0621 28.886 ]
+
+new weight layer 2 :
+[ -4.3095 -14.161 ]
+
+new bias layer 2 :
+[-17.5368]
+
+new weight layer 1 :
+[-0.1  0.2]
+
+new bias layer 1 :
+[-25.8519 -28.0457]
+
+------------- Iteration P 3 -------------
+step 1 :
+s layer 1 :
+[0. 0.]
+
+a layer 2 :
+[-17.5368]
+
+error layer 1 :
+[20.5368]
+
+s layer 2 :
+[-41.0736]
+
+Identity matrix :
+[[0. 0.]
+ [0. 0.]]
+
+s layer 1 :
+[-0. -0.]
+
+new weight layer 2 :
+[ -4.3095 -14.161 ]
+
+new bias layer 2 :
+[23.5368]
+
+new weight layer 1 :
+[-0.1  0.2]
+
+new bias layer 1 :
+[-25.8519 -28.0457]
+
